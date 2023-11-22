@@ -1,0 +1,2 @@
+# centroMedico
+proyecto final compartido 
